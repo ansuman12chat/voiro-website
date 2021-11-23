@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/voiro-website/static/css/main.f5eac9ab.chunk.css",
+    "main.js": "/voiro-website/static/js/main.2afdea11.chunk.js",
+    "main.js.map": "/voiro-website/static/js/main.2afdea11.chunk.js.map",
+    "runtime-main.js": "/voiro-website/static/js/runtime-main.fa940436.js",
+    "runtime-main.js.map": "/voiro-website/static/js/runtime-main.fa940436.js.map",
+    "static/js/2.4f854fab.chunk.js": "/voiro-website/static/js/2.4f854fab.chunk.js",
+    "static/js/2.4f854fab.chunk.js.map": "/voiro-website/static/js/2.4f854fab.chunk.js.map",
+    "index.html": "/voiro-website/index.html",
+    "static/css/main.f5eac9ab.chunk.css.map": "/voiro-website/static/css/main.f5eac9ab.chunk.css.map",
+    "static/js/2.4f854fab.chunk.js.LICENSE.txt": "/voiro-website/static/js/2.4f854fab.chunk.js.LICENSE.txt",
+    "static/media/Voiro_Logo.bdc487aa.png": "/voiro-website/static/media/Voiro_Logo.bdc487aa.png",
+    "static/media/svg-1.752c2c88.svg": "/voiro-website/static/media/svg-1.752c2c88.svg",
+    "static/media/svg-2.1ef1b4e7.svg": "/voiro-website/static/media/svg-2.1ef1b4e7.svg",
+    "static/media/svg-3.a7781bdd.svg": "/voiro-website/static/media/svg-3.a7781bdd.svg",
+    "static/media/svg-4.ffd8233e.svg": "/voiro-website/static/media/svg-4.ffd8233e.svg",
+    "static/media/svg-6.03f9943b.svg": "/voiro-website/static/media/svg-6.03f9943b.svg",
+    "static/media/svg-7.1096cf0d.svg": "/voiro-website/static/media/svg-7.1096cf0d.svg",
+    "static/media/video.d316915b.mp4": "/voiro-website/static/media/video.d316915b.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fa940436.js",
+    "static/js/2.4f854fab.chunk.js",
+    "static/css/main.f5eac9ab.chunk.css",
+    "static/js/main.2afdea11.chunk.js"
+  ]
+}
